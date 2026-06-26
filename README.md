@@ -1,72 +1,132 @@
-<h1 align="center">Hi 👋, I'm Jaswant</h1>
-<h3 align="center">Computer Science Student | AI & ML Enthusiast | Web Developer</h3>
+<h1 align="center">Hi 👋, I'm Jaswant D</h1>
+
+<h3 align="center">
+Computer Science Student • AI & ML Enthusiast • Full Stack Web Developer
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Building+AI-powered+solutions;React+%7C+Python+%7C+ML+%7C+NLP;Always+learning+something+new" alt="Typing SVG" />
+Building AI-powered applications and modern web experiences.
 </p>
+
 ---
-🙋‍♂️ About Me
-🎓 Pursuing B.E. Computer Science & Engineering at Sri Krishna College of Technology, Coimbatore (2024–2028)
-🤖 Passionate about AI, Machine Learning, NLP, and Computer Vision
-🌐 Love building full-stack web apps with React & Firebase
-🔭 Currently working on a Headlight Detection System using Computer Vision
-📫 Reach me at jaswantjasu2006@gmail.com
-🌍 Based in Erode, Tamil Nadu
+
+## 🚀 About Me
+
+🎓 B.E. Computer Science & Engineering  
+📍 Sri Krishna College of Technology, Coimbatore
+
+💡 Passionate about
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Full Stack Web Development
+
+🌱 Currently Learning
+- Advanced React
+- Computer Vision
+- NLP
+- Backend Development
+
+📫 Reach Me
+
+**Email:** jaswantjasu2006@gmail.com
+
 ---
-🚀 Projects
-🧠 Fake News Detection System
-> ML model that classifies news articles as real or fake using NLP techniques.  
-> `Python` `Pandas` `NumPy` `Scikit-Learn`
-🎯 Career Guidance Website
-> Web platform helping students explore career paths, skills, courses, and job opportunities.  
-> `React` `HTML` `CSS` `JavaScript`
-🏏 IPL Auction Simulator
-> Web-based IPL auction game — bid on players, manage budgets, build squads.  
-> `React` `JavaScript` `HTML` `CSS` `Firebase`
-🚗 Headlight Detection System (In Progress)
-> Computer vision system to detect vehicle headlights using image processing and ML.  
-> `Python` `OpenCV` `Machine Learning`
----
-🛠️ Tech Stack
-Languages & Frameworks
+
+## 💻 Tech Stack
+
+### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-AI / ML
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-Database & Backend
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-Tools
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+
+### AI / ML
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab)
+
 ---
-📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaswant136&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaswant136&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswant136&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+
+# 🚀 Featured Projects
+
+### 📰 Fake News Detection
+AI model that classifies news as Real or Fake using NLP and Machine Learning.
+
+**Tech:** Python • Pandas • Scikit-Learn
+
 ---
-🌐 Connect With Me
-<p align="left">
-  <a href="mailto:jaswantjasu2006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/jaswant136">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://jww-theta.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+
+### 🎯 Career Guidance Website
+Web application that recommends career paths based on user interests.
+
+**Tech:** React • Firebase • JavaScript
+
 ---
+
+### 🏏 IPL Auction Simulator
+Interactive IPL auction platform with team management and bidding system.
+
+**Tech:** React • Firebase
+
+---
+
+### 🚗 Headlight Detection System
+Computer Vision project that detects vehicle headlights using image processing.
+
+**Tech:** Python • OpenCV
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaswant136&label=Profile%20views&color=6C63FF&style=flat" alt="profile views" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jaswant136&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswant136&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=jaswant136&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](YOUR_PORTFOLIO)
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:jaswantjasu2006@gmail.com)
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
 </p>
